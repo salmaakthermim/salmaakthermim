@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Salma Akther Mim
 #### I am Fontan developer 
-![I am Fontan developer ](https://i.ibb.co.com/RpNdWS2L/1.png)
+![I am Fontan developer ]([https://i.ibb.co.com/RpNdWS2L/1.png])
 
 
 Skills:  REACT / JS / HTML / CSS/mongodb/firebase/Next.js/
