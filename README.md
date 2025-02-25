@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Salma Akther Mim
 #### I am Fontan developer 
-![Image](https://scontent.fjsr1-1.fna.fbcdn.net/v/t39.30808-6/476029001_122153383880369754_6650948621110306318_n.png?stp=dst-png_s960x960&_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEw2nR8GfNSFD2RTY1oMwSv-N1bx-68XH_43VvH7rxcf8owZHQGl3WUqtkSKDzed_oefJ5g-wEv5GgCFXN5sUWm&_nc_ohc=9ZbpaHP8GusQ7kNvgGJfp-c&_nc_zt=23&_nc_ht=scontent.fjsr1-1.fna&_nc_gid=A3YpnzrngsKL_hrEYl1yRdm&oh=00_AYA4rM_Jia5dX1kzfug95_qG_Ug3X1foAoHadqyLvw52xQ&oe=67A909C1)
+![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCsE-xMlz4-hyOoWKQm1_fhTSo3vwxItgk5Q&s)
 
 I'm a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication.  some technologies I enjoy working with include ReactJS, JavaScript as well 
 
