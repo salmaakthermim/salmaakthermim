@@ -1,7 +1,7 @@
 <div align="center">
-  <img height="390" src="https://i.ibb.co.com/chPzdbhk/rizonahmed0486-gmal-com.png"  />
+  <img height="390" src="https://miro.medium.com/v2/resize:fit:840/1*b21FyqUbowHYAOQDXH0tDw.jpeg"  />
 </div>
-###
+
 
 <h1 align="center">About Me</h1>
 
