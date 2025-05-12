@@ -2,6 +2,7 @@
 #### I am Fontan developer 
 ![Image](https://miro.medium.com/v2/resize:fit:1000/0*GbWJ4Sl7IKxyO0Go.png)
 
+About Me
 I'm a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication.  some technologies I enjoy working with include ReactJS, JavaScript as well 
 
 Skills:  REACT / JS / HTML / CSS/mongodb/firebase/Next.js/
